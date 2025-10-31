@@ -93,3 +93,10 @@ requests
 validators
 python-dotenv
 ```
+
+---
+
+## 👨‍💻 Author
+
+Pahuldeep Singh Dhingra
+📍 Florida Atlantic University · M.S. Data Science & Analytics
